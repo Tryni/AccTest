@@ -37,6 +37,12 @@
             <version>6.10</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>jaxen</groupId>
+            <artifactId>jaxen</artifactId>
+            <version>1.2.0</version>
+            <scope>test</scope>
+        </dependency>
 
     </dependencies>
     <build>
